@@ -1,0 +1,10 @@
+{
+  "name" : "Mujeeb",
+  "age" : 29,
+  "phone" : [ 1234, 5678 ],
+  "spouse" : {
+    "name" : "Mujju",
+    "age" : 29,
+    "phone" : [ 99010, 96200 ]
+  }
+}
